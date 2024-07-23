@@ -1,4 +1,4 @@
-## Figma
+## Figma ![Figma Icon](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg | width=20)
 
 ![Figma Icon](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)
 
@@ -38,9 +38,6 @@
 | ctrl + alt + P            | ⌘ + ⌥ + P          | Ejecutar el último Plugin   |
 
 ## Recursos para Figma
-
-A continuación te enlisto una serie de recursos con los que podemos trabajar en conjunto con Figma para enriquecer nuestros prototipos y no demorar tanto en diseñar assets para nuestras interfaces, sobre todo si no eres diseñador como yo 🤓 estos recursos te encantarán:
-
 ### Vectores:
 - [FontAwesome](https://fontawesome.com/)
 - [unDraw](https://undraw.co/)
