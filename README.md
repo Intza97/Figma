@@ -1,7 +1,5 @@
 ## Figma ![Figma Icon](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg | width=20)
 
-![Figma Icon](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)
-
 ## Atajos de Teclado
 
 | Atajo Win/Linux           | Atajo Mac          | Herramienta                 |
