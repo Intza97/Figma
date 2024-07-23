@@ -1,4 +1,6 @@
-## Figma ![Figma Icon](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg | width=20)
+## Figma
+
+![Figma Icon](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg | width=20)
 
 ## Atajos de Teclado
 
