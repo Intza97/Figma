@@ -1,10 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    <span># Figma</span>
-  </a>
-</div>
+# Figma
 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> 
 
 ## Atajos de Teclado
 
