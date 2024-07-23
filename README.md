@@ -1,7 +1,11 @@
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  # Figma
-</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    <span># Figma</span>
+  </a>
+</div>
+
+
 ## Atajos de Teclado
 
 | Atajo Win/Linux           | Atajo Mac          | Herramienta                 |
